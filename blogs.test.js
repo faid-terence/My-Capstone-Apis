@@ -1,4 +1,4 @@
-const { add, subtract, divide, multiply, product } = require("./math");
+const { add, subtract, divide, multiply, product } = require("./blogs");
 
 describe("blogs.js tests", () => {
   it("it should test Return All Blogs  ", () => {
